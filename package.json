@@ -1,0 +1,23 @@
+{
+  "name": "bolt-socket-mode-bot",
+  "version": "1.0.0",
+  "description": "Slack bot powered by Bolt framework with Socket Mode enabled",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koba925/bolt-socket-mode-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koba925/bolt-socket-mode-bot/issues"
+  },
+  "homepage": "https://github.com/koba925/bolt-socket-mode-bot#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.8.1"
+  }
+}
