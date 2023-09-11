@@ -19,5 +19,8 @@
   "homepage": "https://github.com/koba925/bolt-socket-mode-bot#readme",
   "dependencies": {
     "@slack/bolt": "^3.8.1"
+  },
+  "devDependencies": {
+    "semistandard": "^16.0.1"
   }
 }
